@@ -12,9 +12,13 @@
 
 - `React`
 
-- `PostgreSQL` 
+- `TypeScript` 
+
+- `Java` 
 
 - `Spring`
+
+- `PostgreSQL` 
 
 - `VSCODE`
 
