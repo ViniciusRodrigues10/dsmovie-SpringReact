@@ -2,7 +2,7 @@
 <h4 align="center"> Classificador de filmes </h4>
 
 ## Descrição do projeto 
-  O projeto desenvolvido na semana Spring React do curso DevSuperior e consiste em um site que informa a classificação de filmes e séries de acordo com o voto do público 
+  O projeto desenvolvido na semana Spring React do curso DevSuperior consiste em um site que informa a classificação de filmes e séries de acordo com o voto do público 
 
 ## :computer: Tecnologias e Ferramentas 
 
